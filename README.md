@@ -6,6 +6,7 @@
 
 <a href="https://braison-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/braison-orina-9b5576254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</a> <a href="https://instagram.com/braison100"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://x.com/onewhoplaysMC"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:orinabraison@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
